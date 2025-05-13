@@ -3,7 +3,7 @@
 - 👀 I’m interested in building robust and scalable web applications.
 - 🌱 I’m currently learning advanced Vue.js features and exploring Laravel ecosystem tools like Livewire and Inertia.js.
 - 💞️ I’m looking to collaborate on Laravel + Vue.js projects, or anything exciting in the web development space.
-- 📫 How to reach me: abdulkadir.alabdullah@gmail.com | in/abdulkadir-alabdullah-588062291
+- 📫 How to reach me: abdulkadir.alabdullah@gmail.com | linkedin.com/in/abdulkadir-alabdullah-588062291
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe clean code and good architecture are the secret sauce behind every great app!
 
